@@ -1,0 +1,6 @@
+numpy == '2.5.0'
+pandas == '2.3.3'
+scikit-learn == '1.9.0'
+mlflow == '3.14.0'
+dvc[gs] == '3.1.0'
+evidently == '0.7.21'
