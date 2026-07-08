@@ -1,0 +1,22 @@
+artifact_path: file:C:/Users/ALEX/Desktop/mlops_project/mlruns/1/models/m-860cc120ae5d4509b2c62cc2c4b6f13b/artifacts
+flavors:
+  python_function:
+    data: model.ubj
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.14.5
+  xgboost:
+    code: null
+    data: model.ubj
+    model_class: xgboost.sklearn.XGBClassifier
+    model_format: ubj
+    xgb_version: 3.3.0
+mlflow_version: 3.14.0
+model_id: m-860cc120ae5d4509b2c62cc2c4b6f13b
+model_size_bytes: 7578978
+model_uuid: m-860cc120ae5d4509b2c62cc2c4b6f13b
+prompts: null
+run_id: 33eeeb60da5f4cf7980642f6db238c41
+utc_time_created: '2026-07-08 04:12:26.957572'
