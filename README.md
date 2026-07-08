@@ -20,3 +20,4 @@
 1. Para la data Out-of-Time (OOT), Colocar la data nueva en la carpeta correspondiente y ejecutar: python src/inference.py
 2. Para reentrenar el modelo (con búsqueda de hiperparámetros en Optuna): python main.py
 3. Para visualizar los resultados (Dashboard): streamlit run dashboard.py
+4. Link del Dataset (Google Drive): https://drive.google.com/drive/folders/1BbaYLS_Cy5pbvfE6JH3P7KILdlRf_Cds?usp=drive_link
