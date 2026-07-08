@@ -1,6 +1,6 @@
 
 **Autor:** [ALEX GENARO TTITO TORRES]
-**Link del Repositorio GitHub:** [AQUÍ PEGARÁS TU LINK DE GITHUB EN EL PASO B]
+**Link del Repositorio GitHub: https://github.com/Lex26Innovation/mlops_project
 
 ## Estructura
 - `data/`: Contiene los datos crudos, procesados, métricas de monitoreo y réplicas.
